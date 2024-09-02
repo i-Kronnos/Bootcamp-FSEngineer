@@ -1,6 +1,8 @@
 // ----------------- Javascript code for Esteban Quiñones -----------------
 
 // Punto A
+console.warn("------------- Punto A -------------")
+
 var cantidadDeGatos = 0 //Cambiar el numero para ver el resultado
 var emojis = ["😺", "😸", "😹"]
 
